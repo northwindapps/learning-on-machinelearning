@@ -26,5 +26,7 @@ What is feedforward and backpropagation?
 Does GD decide the direction in the trying? 
 - GD shifts the weights and biases based on the gradient vector's direction.
 
+Do all models use the same type of neuron?
+- No. While basic neural networks use "Fully Connected" neurons, advanced models use specialized architectures like CNNs or RNNs.
 
 
