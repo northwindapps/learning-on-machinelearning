@@ -1,5 +1,4 @@
-The following is a list of questions I had in my learning on Machine Learning (and the answer from ChatGpt, Gemini). 
-Hope you find it helpful if you're having hard time in yours.
+The following is a list of questions I had during my learning of Machine Learning (and the answers from ChatGpt and Gemini). Hope you find it helpful if you're having a hard time in yours.
 
 What is Cross-Entropy?
 - It's a loss function primarily used for classification. It measures the difference between predicted probabilities and actual labels.
